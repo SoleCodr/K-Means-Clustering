@@ -8,4 +8,4 @@ In this task we will predict the optimum number of clusters and plot the results
 Dataset can be downloaded from this <a href="https://raw.githubusercontent.com/SoleCodr/K-Means-Clustering/master/Iris.csv">link</a>
 
 ### Main Question
-<p>From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.</p>
+<b>From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.</b>
